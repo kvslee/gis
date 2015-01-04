@@ -1,9 +1,9 @@
-updated for testing
+GIS Excercises
 
-This is a branch version of Readme on edit. 
+South Korea Map (Based on http://bost.ocks.org/mike/map/)
+Geographic data is taken from Natural Earth.
+-Admin 0 - Details - map subunits
+Populated Places
 
-All kept for resolving conflicts:
-Changes in a branch after some updates in master after a a brach merge
-
-Changes in Master after the first branch merge
+US Population by Counties (Based on http://bl.ocks.org/mbostock/9943478)
 
